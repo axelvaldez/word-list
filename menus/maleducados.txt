@@ -1,109 +1,109 @@
 <card>
 <title>Espresso doble</title> <price>$45</price>
-Doble de espresso (60ml)
+<description>Doble de espresso (60ml)</description>
 </card>
 
 <card>
 <title>Espresso doble cortado</title> <price>$50</price>
-Doble de espresso (60ml) con un poco de leche.
+<description>Doble de espresso (60ml) con un poco de leche.</description>
 </card>
 
 <card>
 <title>Flat White ★</title> <price>$55</price>
-Doble espresso con leche. Es una bebida con más café que un latte, pero con menos que un cortado, pero menos cremosa que un capuccino.
+<description>Doble espresso con leche. Es una bebida con más café que un latte, pero con menos que un cortado, pero menos cremosa que un capuccino.</description>
 </card>
 
 <card>
 <title>Capuccino ★</title> <price>$55</price>
-Doble espresso con leche. Es una bebida con más leche que un flat white pero con más café que un latte.
+<description>Doble espresso con leche. Es una bebida con más leche que un flat white pero con más café que un latte.</description>
 </card>
 
 <card>
 <title>Latte ★</title> <price>$55</price>
-Doble de espresso con una mayor cantidad de leche en relación al café.
+<description>Doble de espresso con una mayor cantidad de leche en relación al café.</description>
 </card>
 
 <card>
 <title>Espresso americano</title> <price>$50</price>
-Un espresso (50ml) con agua caliente.
+<description>Un espresso (50ml) con agua caliente.</description>
 </card>
 
 <card>
 <title>Café en prensa grande ♥</title> <price>$100</price>
-Método de especialidad con café molido grueso para 3-4 tazas.
+<description>Método de especialidad con café molido grueso para 3-4 tazas.</description>
 </card>
 
 <card>
 <title>Cold Brew</title> <price>$55</price>
-Método de extracción de café en frío (18 horas).
+<description>Método de extracción de café en frío (18 horas).</description>
 </card>
 
 <card>
 <title>Mocaccino</title> <price>$65</price>
-Bebida preparada con leche, espresso, cacao y canela.
+<description>Bebida preparada con leche, espresso, cacao y canela.</description>
 </card>
 
 <card>
 <title>Chai latte ★</title> <price>$55</price>
-Mezcla de la casa a base de té negro y especias con leche.
+<description>Mezcla de la casa a base de té negro y especias con leche.</description>
 </card>
 
 <card>
 <title>Leche dorada ★</title> <price>$55</price>
-Mezcla de la casa a base de cúrcuma y otras especias, endulzada con miel y leche de soya.
+<description>Mezcla de la casa a base de cúrcuma y otras especias, endulzada con miel y leche de soya.</description>
 </card>
 
 <card>
 <title>Infusiones</title> <price>$40</price>
-Pregunte por disponibilidad de sabores.
+<description>Pregunte por disponibilidad de sabores.</description>
 </card>
 
 <card>
 <title>Jugo de naranja</title> <price>$45</price>
-Jugo natural preparado al momento con naranjas.
+<description>Jugo natural preparado al momento con naranjas.</description>
 </card>
 
 <card>
 <title>Jugo rojo</title> <price>$55</price>
-Base de jugo de naranja con extractos frescos de betabel, jengibre, fresa y piña.
+<description>Base de jugo de naranja con extractos frescos de betabel, jengibre, fresa y piña.</description>
 </card>
 
 <card>
 <title>Jugo verde</title> <price>$55</price>
-Jugo de naranja con kale, pepino, espinaca y jengibre.
+<description>Jugo de naranja con kale, pepino, espinaca y jengibre.</description>
 </card>
 
 <card>
 <title>Soda del día</title> <price>$55</price>
-Soda de la casa con frutas naturales de temporada.
+<description>Soda de la casa con frutas naturales de temporada.</description>
 </card>
 
 <card>
 <title>Agua del día</title> <price>$50</price>
-Agua fresca a base de ingredientes naturales de temporada.
+<description>Agua fresca a base de ingredientes naturales de temporada.</description>
 </card>
 
 <card>
 <title>Chocolate caliente ★</title> <price>$65</price>
-Mezcla de la casa con cacao natural y especias.
+<description>Mezcla de la casa con cacao natural y especias.</description>
 </card>
 
 <card>
 <title>Cold Brew Enlatado</title> <price>$90</price>
-Nuestro Cold Brew en lata para llevar.
+<description>Nuestro Cold Brew en lata para llevar.</description>
 </card>
 
 <card>
 <title>Kombucha</title> <price>$70</price>
-Bebida fermentada hecha con té, azúcar, bacterias y levaduras.
+<description>Bebida fermentada hecha con té, azúcar, bacterias y levaduras.</description>
 </card>
 
 <card>
 <title>Ginger Ale</title> <price>$70</price>
-Bebida fermentada a base de jengibre y azúcar.
+<description>Bebida fermentada a base de jengibre y azúcar.</description>
 </card>
 
 <card>
 <title>Mistery drink</title> <price>$65</price>
-Bebida personalizada por barista, puede ser fría o caliente.
+<description>Bebida personalizada por barista, puede ser fría o caliente.</description>
 </card>
