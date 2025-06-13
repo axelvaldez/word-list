@@ -1,49 +1,124 @@
-ARMA TU PLATO
-Quesadilla – $35
-Doble tortilla con queso menonita.
-Purrito/Taquito – $25
-Burrito o taquito con guiso.
-De frijol $15 / Agrega queso menonita +$10
-Gatacote – $50
-Taco con queso menonita, 1 guiso, 1 huevo encimita, bañado en salsa.
-Teleras – $25
-Dos mitades, suavesitas, doraditas con mantequilla.
-+1 guiso $15
-Costra de queso – $25
-Ponle una costra de queso menonita a cualquier platillo, o así solita.
-Tortillas raspadas – $40
-Dos tortillas con costra de queso.
-Orden de huevos – $40
-2 huevos al gusto.
-+1 huevo $20
-Ahogo en salsa – $30
-Ahoga tu desayuno en salsa. Puedes agregar cebolla morada, queso fresco, cilantro y crema.
-Frijolitos – $15
-Orden de frijoles guisados con manteca 100% vegetal. Pídelos con queso fresco.
-Orden de guiso – $40
-Agrega una porción de cualquiera de nuestros guisos del día.
-NUESTROS GUISOS
-Chorizo con papas
-Chorizo con papitas y cebolla. ¡Un clásico para el desayuno!
-Machaca con papas
-Machaca regional con tomate, chile verde, cebolla y papitas.
-Chicharrón en salsa verde o roja
-De res, ahogado en nuestras deliciosas salsas hechas a mano.
-Carne con chile
-Carne de res deshebrada, cocinada a fuego lento en chile colorado.
-Pararrajas 🌱
-Rajas de chiles tatemados, con cebolla, tomate, papa y nuestra mezcla de especias.
-POSTRES CASEROS
-Bollito Nini & Co. – $40
-Ricos bollitos de pastel de zanahoria 100% caseros.
-Galleta Corabilia – $20
-Galletas caseras de mantequilla de cacahuate, con un delicioso toque de sal.
-Pregunta por nuestros postres de temporada, ¡siempre caseros y deliciosos!
-BEBIDAS
-Jugo de naranja o toronja (en temporada) 420ml – $45
-Café (rellenado con tus alimentos) – $30
-Limonada natural 420ml – $30
-Mimosa 420ml – $40
-Coca Cola 235ml – $15
-Peñafiel 355ml – $20
-Botella de agua 500ml – $10
+<card>
+<title>Quesadilla</title> <price>$35</price>
+<description>Doble tortilla con queso menonita.</description>
+</card>
+
+<card>
+<title>Purrito/Taquito</title> <price>$25</price>
+<description>Burrito o taquito con guiso. De frijol $15 / Agrega queso menonita +$10.</description>
+</card>
+
+<card>
+<title>Gatacote</title> <price>$50</price>
+<description>Taco con queso menonita, 1 guiso, 1 huevo encimita, bañado en salsa.</description>
+</card>
+
+<card>
+<title>Teleras</title> <price>$25</price>
+<description>Dos mitades, suavesitas, doraditas con mantequilla. +1 mitad $15.</description>
+</card>
+
+<card>
+<title>Costra de queso</title> <price>$25</price>
+<description>Ponle una costra de queso menonita a cualquier platillo, o solita.</description>
+</card>
+
+<card>
+<title>Tortillas raspadas</title> <price>$40</price>
+<description>Dos tortillas con costra de queso.</description>
+</card>
+
+<card>
+<title>Orden de huevos</title> <price>$40</price>
+<description>2 huevos al gusto. +1 huevo $20.</description>
+</card>
+
+<card>
+<title>Ahogo en salsa</title> <price>$30</price>
+<description>Ahoga tu desayuno en salsa. Puedes agregar cebolla morada, queso fresco, cilantro y crema.</description>
+</card>
+
+<card>
+<title>Frijolitos</title> <price>$15</price>
+<description>Orden de frijoles guisados con manteca 100% vegetal. Pídelos con queso fresco.</description>
+</card>
+
+<card>
+<title>Orden de guiso</title> <price>$40</price>
+<description>Agrega una porción de cualquiera de nuestros guisos del día.</description>
+</card>
+
+<card>
+<title>Chorizo con papas</title> <price>Incluido en guisos</price>
+<description>Chorizo con papitas y cebolla. ¡Un clásico para el desayuno!</description>
+</card>
+
+<card>
+<title>Machaca con papas</title> <price>Incluido en guisos</price>
+<description>Machaca regional con tomate, chile verde, cebolla y papitas.</description>
+</card>
+
+<card>
+<title>Chicharrón en salsa verde o roja</title> <price>Incluido en guisos</price>
+<description>De res, ahogado en nuestras deliciosas salsas hechas a mano.</description>
+</card>
+
+<card>
+<title>Carne con chile</title> <price>Incluido en guisos</price>
+<description>Carne de res deshebrada, cocinada a fuego lento en chile colorado.</description>
+</card>
+
+<card>
+<title>Pararrajas</title> <price>Incluido en guisos</price>
+<description>Rajas de chiles tatemados, con cebolla, tomate, papa y nuestra mezcla de especias.</description>
+</card>
+
+<card>
+<title>Bollito Nini&Co.</title> <price>$40</price>
+<description>Ricos bollitos de pastelito de zanahoria 100% caseros.</description>
+</card>
+
+<card>
+<title>Galleta Corabilia</title> <price>$20</price>
+<description>Galletas caseras de mantequilla de cacahuate, con un delicioso toque de sal.</description>
+</card>
+
+<card>
+<title>Jugo de naranja (420ml)</title> <price>$45</price>
+<description></description>
+</card>
+
+<card>
+<title>Jugo de toronja (en temporada)</title> <price>$45</price>
+<description></description>
+</card>
+
+<card>
+<title>Café</title> <price>$30</price>
+<description>Rellenado con tus alimentos.</description>
+</card>
+
+<card>
+<title>Limonada natural (420ml)</title> <price>$30</price>
+<description></description>
+</card>
+
+<card>
+<title>Mimosa (420ml)</title> <price>$40</price>
+<description></description>
+</card>
+
+<card>
+<title>Coca Cola (235ml)</title> <price>$15</price>
+<description></description>
+</card>
+
+<card>
+<title>Peñafiel (355ml)</title> <price>$20</price>
+<description></description>
+</card>
+
+<card>
+<title>Botella de agua (500ml)</title> <price>$10</price>
+<description></description>
+</card>
